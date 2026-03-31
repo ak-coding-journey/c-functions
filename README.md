@@ -1,3 +1,4 @@
 C functions:
 1) Basic addition;
-2)  2) Struct with function.
+2) Struct with function.
+3) pass by value...
